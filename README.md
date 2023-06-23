@@ -11,5 +11,5 @@
 # To build a project use the following code:
 ## cargo build
 #
-# To run the project, after building the project use the following code:
+# To run the project (note: cargo run includes compling the code):
 ## cargo run
